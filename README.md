@@ -15,3 +15,6 @@ Cloud Deployment:
 - The code and SQL scripts for the database design are available in this repository. You can find the Power BI visualizations [here]().
 
 # Fragments from PowerBI
+![image](https://github.com/user-attachments/assets/bb4ae940-5824-4282-8bdb-ede8238665ef)
+![image](https://github.com/user-attachments/assets/7c3e1130-d8da-47bd-9f6c-e0246b821802)
+![image](https://github.com/user-attachments/assets/dcedab96-9bfa-45bb-90d6-2ad6cf9736ec)
