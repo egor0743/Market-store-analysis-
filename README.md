@@ -1,4 +1,4 @@
-# 🚗Automotive Fasteners Market Analysis Project
+# Automotive Fasteners Market Analysis Project🚗
 This project is a comprehensive market analysis for a store specializing in automotive fasteners. The goal was to develop a database that could be used for in-depth market analysis and visualization in Power BI. The project covers several key stages:
 
 Database Design & Implementation:
