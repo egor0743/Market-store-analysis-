@@ -19,12 +19,12 @@ Cloud Deployment:
 ![image](https://github.com/user-attachments/assets/7c3e1130-d8da-47bd-9f6c-e0246b821802)
 ![image](https://github.com/user-attachments/assets/3dbdd2d4-20e6-4bef-aab9-118da2bc0451)
 
-# Опис джерела даних 📂
+# Description of the data source 📂
 
-Цей набір даних включає всі транзакції для магазину автокріплень в Україні. Дані охоплюють період з 01.01.2023 по 31.12.2023 та відображають операції з продажу монтажних виробів різним клієнтам по всій країні. Джерело даних - власні внутрішні записи магазину.
+This data set includes all transactions for the auto fasteners store in Ukraine. The data covers the period from 01.01.2023 to 31.12.2023 and reflects operations for the sale of assembly products to various customers throughout the country. The data source is the store's own internal records.
 
-# Процес моделювання даних 🔧
+# Data modeling process 🔧
 
-Я створив таблиці вимірів для клієнтів, продуктів, регіонів та часу, щоб забезпечити ефективне запитування та візуалізацію даних. Встановлюючи зв'язки між цими таблицями, ми можемо легко орієнтуватися та аналізувати дані за різними вимірами.
+I created dimension tables for customers, products, regions, and time to enable efficient querying and data visualization. By establishing relationships between these tables, we can easily navigate and analyze data by different dimensions.
 
 ![image](https://github.com/user-attachments/assets/43c45b06-a935-472d-997d-62aa26ed81b1)
