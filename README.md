@@ -12,7 +12,7 @@ Data Analysis & Visualization:
 
 Cloud Deployment:
 - The Power BI file, containing all the visualizations and analysis, is hosted in the cloud for easy access and sharing.
-- The code and SQL scripts for the database design are available in this repository. You can find the Power BI visualizations [here]().
+- The code and SQL scripts for the database design are available in this repository. To view the Power BI visualizations, download the files from the TestDB-BI folder and open the testDB Power BI file located in the repository.
 
 # Fragments from PowerBI
 ![image](https://github.com/user-attachments/assets/bb4ae940-5824-4282-8bdb-ede8238665ef)
